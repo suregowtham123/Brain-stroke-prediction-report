@@ -73,4 +73,5 @@ The dataset includes the following features:
 ## 📷 Sample Screenshots
 ## 📷 Dashboard Preview
 
-![Brain Stroke Dashboard](https://github.com/yourusername/your-repo-name/blob/main/dashboard-overview.png?raw=true)
+### 🧠 Main Dashboard
+![Dashboard](./assetss/dashboard.png)
